@@ -1462,7 +1462,7 @@ class Menu:
             self.help_text = [
                     ("Made by:", (255, 255, 255)),  # White
                     ("Apurbo Da Vinci", (255, 215, 0)), # gold
-                    ("Use A to go left and D to go right", (0,0,0)),  # black
+                    ("Use the arrow keys to go left or right", (0,0,0)),  # black
                     ("Press Space to jump and Shift to dash", (0,0,0)),
                     ("dash is usefull for dodging tanks :D", (0,0,128)), #navy
                     ("Press F to shoot bullets and destroy planes and missiles", (192,192,192)),  # silver
